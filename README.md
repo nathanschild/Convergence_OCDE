@@ -1,9 +1,15 @@
-# Convergence_OCDE
+# Dossiers_MASTER_SE
 
-L'objectif de cette étude est d'analyser s'il existe un phénomène de convergence économique pour 23 pays de l'OCDE sur la période 1970-2015. Les résultats suggèrent bel et bien la présence d'un phénomène de convergence au sein de ce groupe de pays.
+Cette page contient les dossiers relatifs au master.
+Vous y trouverez dans chaque dossier :
 
-i) Le fichier datap.xlsx contient la base de données.
+i) Un fichier pdf contenant le travail.
+ii) Un fichier xlsx contenant les données
+iii) Un fichier .R contenant le code
 
-ii) Le fichier Code.R contient le code afin de répliquer le travail.
+Vous y trouverez pour l'instant deux dossiers :
 
-iii) Le fichier pdf contient le travail.
+i) Le premier s'intitule "Convergence" est une étude constatant la convergence économique au sein des pays de l'OCDE.
+ii) Le second s'intitule "Participation des femmes sur le marché du travail" est une étude cherchant les déterminants de la participation des femmes sur le marché du travail.
+
+Prochainement : Estimation de la courbe de Philipps au Royaume-Uni et en France...
